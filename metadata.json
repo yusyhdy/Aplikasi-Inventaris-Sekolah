@@ -1,0 +1,7 @@
+{
+  "name": "SMK Inventaris & Peminjaman",
+  "description": "Sistem informasi manajemen inventaris dan peminjaman alat praktik komprehensif untuk SMK dengan dukungan 9 jurusan (RPL, DKV, TKJ, TPM, TPL, TKR, TAB, TSM, TBO) dan asisten AI pintar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
